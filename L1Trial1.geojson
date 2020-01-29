@@ -66,7 +66,7 @@
         "FID": 0,
         "nama_fitur": "Sayap utara timur laut dapur",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -117,7 +117,7 @@
         "FID": 1,
         "nama_fitur": "Sayap utara timur laut KM perempuan",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -168,7 +168,7 @@
         "FID": 2,
         "nama_fitur": "Sayap utara timur laut KM laki-laki",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -291,7 +291,7 @@
         "FID": 3,
         "nama_fitur": "Lorong sayap utara timur laut luar",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -370,7 +370,7 @@
         "FID": 4,
         "nama_fitur": "Lorong sayap utara timur laut",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -441,7 +441,7 @@
         "FID": 5,
         "nama_fitur": "Sayap utara timur laut gudang",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -564,7 +564,7 @@
         "FID": 6,
         "nama_fitur": "Lorong sayap utara timur laut dalam",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -603,9 +603,9 @@
         "FID": 7,
         "nama_fitur": "Sayap utara timur laut tangga 1",
         "lantai": 1,
-        "ketinggian": 3.5,
+        "ketinggian": 28,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 7
     },
@@ -642,9 +642,9 @@
         "FID": 8,
         "nama_fitur": "Sayap utara timur laut tangga 2",
         "lantai": 1,
-        "ketinggian": 3.875,
+        "ketinggian": 31,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 8
     },
@@ -681,9 +681,9 @@
         "FID": 9,
         "nama_fitur": "Sayap utara timur laut tangga 3",
         "lantai": 1,
-        "ketinggian": 4.25,
+        "ketinggian": 34,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 9
     },
@@ -720,9 +720,9 @@
         "FID": 10,
         "nama_fitur": "Sayap utara timur laut tangga 4",
         "lantai": 1,
-        "ketinggian": 4.625,
+        "ketinggian": 37,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 10
     },
@@ -759,9 +759,9 @@
         "FID": 11,
         "nama_fitur": "Sayap utara timur laut tangga 5",
         "lantai": 1,
-        "ketinggian": 5.125,
+        "ketinggian": 41,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 11
     },
@@ -798,9 +798,9 @@
         "FID": 12,
         "nama_fitur": "Sayap utara timur laut tangga 6",
         "lantai": 1,
-        "ketinggian": 5.625,
+        "ketinggian": 45,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 12
     },
@@ -837,9 +837,9 @@
         "FID": 13,
         "nama_fitur": "Sayap utara timur laut tangga 7",
         "lantai": 1,
-        "ketinggian": 6.125,
+        "ketinggian": 49,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 13
     },
@@ -876,9 +876,9 @@
         "FID": 14,
         "nama_fitur": "Sayap utara timur laut tangga 8",
         "lantai": 1,
-        "ketinggian": 6.625,
+        "ketinggian": 53,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 14
     },
@@ -915,9 +915,9 @@
         "FID": 15,
         "nama_fitur": "Sayap utara timur laut tangga 9",
         "lantai": 1,
-        "ketinggian": 7.125,
+        "ketinggian": 57,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 15
     },
@@ -954,9 +954,9 @@
         "FID": 16,
         "nama_fitur": "Sayap utara timur laut tangga 10",
         "lantai": 1,
-        "ketinggian": 7.625,
+        "ketinggian": 61,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 16
     },
@@ -993,9 +993,9 @@
         "FID": 17,
         "nama_fitur": "Sayap utara timur laut tangga 11",
         "lantai": 1,
-        "ketinggian": 8.125,
+        "ketinggian": 65,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 17
     },
@@ -1032,9 +1032,9 @@
         "FID": 18,
         "nama_fitur": "Sayap utara timur laut tangga 12",
         "lantai": 1,
-        "ketinggian": 8.625,
+        "ketinggian": 69,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 18
     },
@@ -1071,9 +1071,9 @@
         "FID": 19,
         "nama_fitur": "Sayap utara timur laut tangga 13",
         "lantai": 1,
-        "ketinggian": 9.125,
+        "ketinggian": 73,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 19
     },
@@ -1110,9 +1110,9 @@
         "FID": 20,
         "nama_fitur": "Sayap utara timur laut tangga 14",
         "lantai": 1,
-        "ketinggian": 9.625,
+        "ketinggian": 77,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 20
     },
@@ -1149,9 +1149,9 @@
         "FID": 21,
         "nama_fitur": "Sayap utara timur laut tangga 15",
         "lantai": 1,
-        "ketinggian": 10.125,
+        "ketinggian": 81,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 21
     },
@@ -1188,9 +1188,9 @@
         "FID": 22,
         "nama_fitur": "Sayap utara timur laut tangga 16",
         "lantai": 1,
-        "ketinggian": 10.625,
+        "ketinggian": 85,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 22
     },
@@ -1227,9 +1227,9 @@
         "FID": 23,
         "nama_fitur": "Sayap utara timur laut tangga 17",
         "lantai": 1,
-        "ketinggian": 11.125,
+        "ketinggian": 89,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 23
     },
@@ -1266,9 +1266,9 @@
         "FID": 24,
         "nama_fitur": "Sayap utara timur laut tangga 18",
         "lantai": 1,
-        "ketinggian": 11.625,
+        "ketinggian": 93,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 24
     },
@@ -1305,9 +1305,9 @@
         "FID": 25,
         "nama_fitur": "Sayap utara timur laut tangga 19",
         "lantai": 1,
-        "ketinggian": 12.125,
+        "ketinggian": 97,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 25
     },
@@ -1344,9 +1344,9 @@
         "FID": 26,
         "nama_fitur": "Sayap utara timur laut tangga 20",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 26
     },
@@ -1391,7 +1391,7 @@
         "FID": 27,
         "nama_fitur": "DK Ruang Direktur",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1438,7 +1438,7 @@
         "FID": 28,
         "nama_fitur": "DK Ruang Rapat",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1477,7 +1477,7 @@
         "FID": 29,
         "nama_fitur": "DK Ruang Sekretaris",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1516,7 +1516,7 @@
         "FID": 30,
         "nama_fitur": "DK Ruang Kasubdit Kebendaharaan",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1563,7 +1563,7 @@
         "FID": 31,
         "nama_fitur": "DK Ruang Kosong 1",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1602,7 +1602,7 @@
         "FID": 32,
         "nama_fitur": "DK Loket",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1641,7 +1641,7 @@
         "FID": 33,
         "nama_fitur": "DK Ruang Kasubdit Akuntansi",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1684,7 +1684,7 @@
         "FID": 34,
         "nama_fitur": "DK Resepsionis dan Ruang Tamu",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1723,7 +1723,7 @@
         "FID": 35,
         "nama_fitur": "DK Ruang Kosong 2",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1826,7 +1826,7 @@
         "FID": 36,
         "nama_fitur": "DK Ruang Staf",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1869,9 +1869,9 @@
         "FID": 37,
         "nama_fitur": "Sayap utara timur laut tangga kecil 1",
         "lantai": 1,
-        "ketinggian": 0.625,
+        "ketinggian": 5,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 37
     },
@@ -1908,9 +1908,9 @@
         "FID": 38,
         "nama_fitur": "Sayap utara timur laut tangga kecil 2",
         "lantai": 1,
-        "ketinggian": 1.125,
+        "ketinggian": 9,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 38
     },
@@ -1947,9 +1947,9 @@
         "FID": 39,
         "nama_fitur": "Sayap utara timur laut tangga kecil 3",
         "lantai": 1,
-        "ketinggian": 1.625,
+        "ketinggian": 13,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 39
     },
@@ -1986,9 +1986,9 @@
         "FID": 40,
         "nama_fitur": "Sayap utara timur laut tangga kecil 4",
         "lantai": 1,
-        "ketinggian": 2.125,
+        "ketinggian": 17,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 40
     },
@@ -2025,9 +2025,9 @@
         "FID": 41,
         "nama_fitur": "Sayap utara timur laut tangga kecil 5",
         "lantai": 1,
-        "ketinggian": 2.625,
+        "ketinggian": 21,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 41
     },
@@ -2064,9 +2064,9 @@
         "FID": 42,
         "nama_fitur": "Sayap utara timur laut tangga kecil 6",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 42
     },
@@ -2175,7 +2175,7 @@
         "FID": 43,
         "nama_fitur": "Balairung",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "gold"
       },
@@ -2214,9 +2214,9 @@
         "FID": 44,
         "nama_fitur": "Utara Balairung tangga 5",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 44
     },
@@ -2253,9 +2253,9 @@
         "FID": 45,
         "nama_fitur": "Utara Balairung tangga 4",
         "lantai": 1,
-        "ketinggian": 2.5,
+        "ketinggian": 20,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 45
     },
@@ -2292,9 +2292,9 @@
         "FID": 46,
         "nama_fitur": "Utara Balairung tangga 3",
         "lantai": 1,
-        "ketinggian": 1.875,
+        "ketinggian": 15,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 46
     },
@@ -2331,9 +2331,9 @@
         "FID": 47,
         "nama_fitur": "Utara Balairung tangga 2",
         "lantai": 1,
-        "ketinggian": 1.25,
+        "ketinggian": 10,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 47
     },
@@ -2370,9 +2370,9 @@
         "FID": 48,
         "nama_fitur": "Utara Balairung tangga 1",
         "lantai": 1,
-        "ketinggian": 0.625,
+        "ketinggian": 5,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 48
     },
@@ -2409,9 +2409,9 @@
         "FID": 49,
         "nama_fitur": "Timur Balairung tangga 1",
         "lantai": 1,
-        "ketinggian": 3.375,
+        "ketinggian": 27,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 49
     },
@@ -2448,9 +2448,9 @@
         "FID": 50,
         "nama_fitur": "Timur Balairung tangga 2",
         "lantai": 1,
-        "ketinggian": 4.125,
+        "ketinggian": 33,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 50
     },
@@ -2487,9 +2487,9 @@
         "FID": 51,
         "nama_fitur": "Timur Balairung tangga 3",
         "lantai": 1,
-        "ketinggian": 4.875,
+        "ketinggian": 39,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 51
     },
@@ -2526,9 +2526,9 @@
         "FID": 52,
         "nama_fitur": "Timur Balairung tangga 4",
         "lantai": 1,
-        "ketinggian": 5.625,
+        "ketinggian": 45,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 52
     },
@@ -2565,9 +2565,9 @@
         "FID": 53,
         "nama_fitur": "Timur Balairung tangga 5",
         "lantai": 1,
-        "ketinggian": 6.375,
+        "ketinggian": 51,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 53
     },
@@ -2604,9 +2604,9 @@
         "FID": 54,
         "nama_fitur": "Timur Balairung tangga 6",
         "lantai": 1,
-        "ketinggian": 7.125,
+        "ketinggian": 57,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 54
     },
@@ -2643,9 +2643,9 @@
         "FID": 55,
         "nama_fitur": "Timur Balairung tangga 7",
         "lantai": 1,
-        "ketinggian": 7.875,
+        "ketinggian": 63,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 55
     },
@@ -2682,9 +2682,9 @@
         "FID": 56,
         "nama_fitur": "Timur Balairung tangga 8",
         "lantai": 1,
-        "ketinggian": 8.625,
+        "ketinggian": 69,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 56
     },
@@ -2721,9 +2721,9 @@
         "FID": 57,
         "nama_fitur": "Timur Balairung tangga 9",
         "lantai": 1,
-        "ketinggian": 8.875,
+        "ketinggian": 71,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 57
     },
@@ -2760,9 +2760,9 @@
         "FID": 58,
         "nama_fitur": "Timur Balairung tangga 10",
         "lantai": 1,
-        "ketinggian": 9.625,
+        "ketinggian": 77,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 58
     },
@@ -2799,9 +2799,9 @@
         "FID": 59,
         "nama_fitur": "Timur Balairung tangga 11",
         "lantai": 1,
-        "ketinggian": 10.375,
+        "ketinggian": 83,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 59
     },
@@ -2838,9 +2838,9 @@
         "FID": 60,
         "nama_fitur": "Timur Balairung tangga 12",
         "lantai": 1,
-        "ketinggian": 11.125,
+        "ketinggian": 89,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 60
     },
@@ -2877,9 +2877,9 @@
         "FID": 61,
         "nama_fitur": "Timur Balairung tangga 13",
         "lantai": 1,
-        "ketinggian": 11.875,
+        "ketinggian": 95,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 61
     },
@@ -2916,9 +2916,9 @@
         "FID": 62,
         "nama_fitur": "Barat Balairung tangga 1",
         "lantai": 1,
-        "ketinggian": 3.375,
+        "ketinggian": 27,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 62
     },
@@ -2955,9 +2955,9 @@
         "FID": 63,
         "nama_fitur": "Barat Balairung tangga 2",
         "lantai": 1,
-        "ketinggian": 4.125,
+        "ketinggian": 33,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 63
     },
@@ -2994,9 +2994,9 @@
         "FID": 64,
         "nama_fitur": "Barat Balairung tangga 3",
         "lantai": 1,
-        "ketinggian": 4.875,
+        "ketinggian": 39,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 64
     },
@@ -3033,9 +3033,9 @@
         "FID": 65,
         "nama_fitur": "Barat Balairung tangga 4",
         "lantai": 1,
-        "ketinggian": 5.625,
+        "ketinggian": 45,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 65
     },
@@ -3072,9 +3072,9 @@
         "FID": 66,
         "nama_fitur": "Barat Balairung tangga 5",
         "lantai": 1,
-        "ketinggian": 6.375,
+        "ketinggian": 51,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 66
     },
@@ -3111,9 +3111,9 @@
         "FID": 67,
         "nama_fitur": "Barat Balairung tangga 6",
         "lantai": 1,
-        "ketinggian": 7.125,
+        "ketinggian": 57,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 67
     },
@@ -3150,9 +3150,9 @@
         "FID": 68,
         "nama_fitur": "Barat Balairung tangga 7",
         "lantai": 1,
-        "ketinggian": 7.875,
+        "ketinggian": 63,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 68
     },
@@ -3189,9 +3189,9 @@
         "FID": 69,
         "nama_fitur": "Barat Balairung tangga 8",
         "lantai": 1,
-        "ketinggian": 8.625,
+        "ketinggian": 69,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 69
     },
@@ -3228,9 +3228,9 @@
         "FID": 70,
         "nama_fitur": "Barat Balairung tangga 9",
         "lantai": 1,
-        "ketinggian": 8.875,
+        "ketinggian": 71,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 70
     },
@@ -3267,9 +3267,9 @@
         "FID": 71,
         "nama_fitur": "Barat Balairung tangga 10",
         "lantai": 1,
-        "ketinggian": 9.625,
+        "ketinggian": 77,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 71
     },
@@ -3306,9 +3306,9 @@
         "FID": 72,
         "nama_fitur": "Barat Balairung tangga 11",
         "lantai": 1,
-        "ketinggian": 10.375,
+        "ketinggian": 83,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 72
     },
@@ -3345,9 +3345,9 @@
         "FID": 73,
         "nama_fitur": "Barat Balairung tangga 12",
         "lantai": 1,
-        "ketinggian": 11.125,
+        "ketinggian": 89,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 73
     },
@@ -3384,9 +3384,9 @@
         "FID": 74,
         "nama_fitur": "Barat Balairung tangga 13",
         "lantai": 1,
-        "ketinggian": 11.875,
+        "ketinggian": 95,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 74
     },
@@ -3491,7 +3491,7 @@
         "FID": 75,
         "nama_fitur": "Lorong 1 Direktorat Kemahasiswaan",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -3530,7 +3530,7 @@
         "FID": 76,
         "nama_fitur": "DKM Musala",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -3653,7 +3653,7 @@
         "FID": 77,
         "nama_fitur": "Lorong 3 Direktorat Kemahasiswaan",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -3724,7 +3724,7 @@
         "FID": 78,
         "nama_fitur": "Sayap utara barat laut gudang",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -3795,7 +3795,7 @@
         "FID": 79,
         "nama_fitur": "Sayap utara barat laut dapur",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -3846,7 +3846,7 @@
         "FID": 80,
         "nama_fitur": "Sayap utara barat laut KM perempuan",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -3897,7 +3897,7 @@
         "FID": 81,
         "nama_fitur": "Sayap utara barat laut KM laki-laki",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -3964,7 +3964,7 @@
         "FID": 82,
         "nama_fitur": "Lorong 2 Direktorat Kemahasiswaan",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -4011,9 +4011,9 @@
         "FID": 83,
         "nama_fitur": "Selatan Balairung tangga 1",
         "lantai": 1,
-        "ketinggian": 3.375,
+        "ketinggian": 27,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 83
     },
@@ -4058,9 +4058,9 @@
         "FID": 84,
         "nama_fitur": "Selatan Balairung tangga 2",
         "lantai": 1,
-        "ketinggian": 3.625,
+        "ketinggian": 29,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 84
     },
@@ -4097,9 +4097,9 @@
         "FID": 85,
         "nama_fitur": "Selatan Balairung tangga 3",
         "lantai": 1,
-        "ketinggian": 3.875,
+        "ketinggian": 31,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 85
     },
@@ -4136,9 +4136,9 @@
         "FID": 86,
         "nama_fitur": "Selatan Balairung tangga 4",
         "lantai": 1,
-        "ketinggian": 4.125,
+        "ketinggian": 33,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 86
     },
@@ -4175,9 +4175,9 @@
         "FID": 87,
         "nama_fitur": "Selatan Balairung tangga 5",
         "lantai": 1,
-        "ketinggian": 4.375,
+        "ketinggian": 35,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 87
     },
@@ -4218,9 +4218,9 @@
         "FID": 88,
         "nama_fitur": "Selatan Balairung tangga 6",
         "lantai": 1,
-        "ketinggian": 4.75,
+        "ketinggian": 38,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 88
     },
@@ -4257,9 +4257,9 @@
         "FID": 89,
         "nama_fitur": "Selatan Balairung tangga 7",
         "lantai": 1,
-        "ketinggian": 5.125,
+        "ketinggian": 41,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 89
     },
@@ -4296,9 +4296,9 @@
         "FID": 90,
         "nama_fitur": "Selatan Balairung tangga 8",
         "lantai": 1,
-        "ketinggian": 5.625,
+        "ketinggian": 45,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 90
     },
@@ -4335,9 +4335,9 @@
         "FID": 91,
         "nama_fitur": "Selatan Balairung tangga 9",
         "lantai": 1,
-        "ketinggian": 6.125,
+        "ketinggian": 49,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 91
     },
@@ -4374,9 +4374,9 @@
         "FID": 92,
         "nama_fitur": "Selatan Balairung tangga 10",
         "lantai": 1,
-        "ketinggian": 6.625,
+        "ketinggian": 53,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 92
     },
@@ -4413,9 +4413,9 @@
         "FID": 93,
         "nama_fitur": "Selatan Balairung tangga 11",
         "lantai": 1,
-        "ketinggian": 7.125,
+        "ketinggian": 57,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 93
     },
@@ -4452,9 +4452,9 @@
         "FID": 94,
         "nama_fitur": "Selatan Balairung tangga 12",
         "lantai": 1,
-        "ketinggian": 7.625,
+        "ketinggian": 61,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 94
     },
@@ -4491,9 +4491,9 @@
         "FID": 95,
         "nama_fitur": "Selatan Balairung tangga 13",
         "lantai": 1,
-        "ketinggian": 8.125,
+        "ketinggian": 65,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 95
     },
@@ -4530,9 +4530,9 @@
         "FID": 96,
         "nama_fitur": "Selatan Balairung tangga 14",
         "lantai": 1,
-        "ketinggian": 8.625,
+        "ketinggian": 69,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 96
     },
@@ -4569,9 +4569,9 @@
         "FID": 97,
         "nama_fitur": "Selatan Balairung tangga 15",
         "lantai": 1,
-        "ketinggian": 9.125,
+        "ketinggian": 73,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 97
     },
@@ -4608,9 +4608,9 @@
         "FID": 98,
         "nama_fitur": "Selatan Balairung tangga 16",
         "lantai": 1,
-        "ketinggian": 9.625,
+        "ketinggian": 77,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 98
     },
@@ -4647,9 +4647,9 @@
         "FID": 99,
         "nama_fitur": "Selatan Balairung tangga 17",
         "lantai": 1,
-        "ketinggian": 10.125,
+        "ketinggian": 81,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 99
     },
@@ -4686,9 +4686,9 @@
         "FID": 100,
         "nama_fitur": "Selatan Balairung tangga 18",
         "lantai": 1,
-        "ketinggian": 10.625,
+        "ketinggian": 85,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 100
     },
@@ -4725,9 +4725,9 @@
         "FID": 101,
         "nama_fitur": "Selatan Balairung tangga 19",
         "lantai": 1,
-        "ketinggian": 11.125,
+        "ketinggian": 89,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 101
     },
@@ -4764,9 +4764,9 @@
         "FID": 102,
         "nama_fitur": "Selatan Balairung tangga 20",
         "lantai": 1,
-        "ketinggian": 11.5,
+        "ketinggian": 92,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 102
     },
@@ -4803,9 +4803,9 @@
         "FID": 103,
         "nama_fitur": "Selatan Balairung tangga 21",
         "lantai": 1,
-        "ketinggian": 11.875,
+        "ketinggian": 95,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 103
     },
@@ -4842,9 +4842,9 @@
         "FID": 104,
         "nama_fitur": "Selatan Balairung tangga 22",
         "lantai": 1,
-        "ketinggian": 12.25,
+        "ketinggian": 98,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 104
     },
@@ -4881,9 +4881,9 @@
         "FID": 105,
         "nama_fitur": "Selatan Balairung tangga 23",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 105
     },
@@ -4920,9 +4920,9 @@
         "FID": 106,
         "nama_fitur": "Selatan Balairung tangga 24",
         "lantai": 1,
-        "ketinggian": 5.125,
+        "ketinggian": 41,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 106
     },
@@ -4959,9 +4959,9 @@
         "FID": 107,
         "nama_fitur": "Selatan Balairung tangga 25",
         "lantai": 1,
-        "ketinggian": 5.625,
+        "ketinggian": 45,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 107
     },
@@ -4998,9 +4998,9 @@
         "FID": 108,
         "nama_fitur": "Selatan Balairung tangga 26",
         "lantai": 1,
-        "ketinggian": 6.125,
+        "ketinggian": 49,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 108
     },
@@ -5037,9 +5037,9 @@
         "FID": 109,
         "nama_fitur": "Selatan Balairung tangga 27",
         "lantai": 1,
-        "ketinggian": 6.625,
+        "ketinggian": 53,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 109
     },
@@ -5076,9 +5076,9 @@
         "FID": 110,
         "nama_fitur": "Selatan Balairung tangga 28",
         "lantai": 1,
-        "ketinggian": 7.125,
+        "ketinggian": 57,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 110
     },
@@ -5115,9 +5115,9 @@
         "FID": 111,
         "nama_fitur": "Selatan Balairung tangga 29",
         "lantai": 1,
-        "ketinggian": 7.625,
+        "ketinggian": 61,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 111
     },
@@ -5154,9 +5154,9 @@
         "FID": 112,
         "nama_fitur": "Selatan Balairung tangga 30",
         "lantai": 1,
-        "ketinggian": 8.125,
+        "ketinggian": 65,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 112
     },
@@ -5193,9 +5193,9 @@
         "FID": 113,
         "nama_fitur": "Selatan Balairung tangga 31",
         "lantai": 1,
-        "ketinggian": 8.625,
+        "ketinggian": 69,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 113
     },
@@ -5232,9 +5232,9 @@
         "FID": 114,
         "nama_fitur": "Selatan Balairung tangga 32",
         "lantai": 1,
-        "ketinggian": 9.125,
+        "ketinggian": 73,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 114
     },
@@ -5271,9 +5271,9 @@
         "FID": 115,
         "nama_fitur": "Selatan Balairung tangga 33",
         "lantai": 1,
-        "ketinggian": 9.625,
+        "ketinggian": 77,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 115
     },
@@ -5310,9 +5310,9 @@
         "FID": 116,
         "nama_fitur": "Selatan Balairung tangga 34",
         "lantai": 1,
-        "ketinggian": 10.125,
+        "ketinggian": 81,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 116
     },
@@ -5349,9 +5349,9 @@
         "FID": 117,
         "nama_fitur": "Selatan Balairung tangga 35",
         "lantai": 1,
-        "ketinggian": 10.625,
+        "ketinggian": 85,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 117
     },
@@ -5388,9 +5388,9 @@
         "FID": 118,
         "nama_fitur": "Selatan Balairung tangga 36",
         "lantai": 1,
-        "ketinggian": 11.125,
+        "ketinggian": 89,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 118
     },
@@ -5431,9 +5431,9 @@
         "FID": 119,
         "nama_fitur": "Selatan Balairung tangga 37",
         "lantai": 1,
-        "ketinggian": 11.5,
+        "ketinggian": 92,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 119
     },
@@ -5470,9 +5470,9 @@
         "FID": 120,
         "nama_fitur": "Selatan Balairung tangga 38",
         "lantai": 1,
-        "ketinggian": 11.875,
+        "ketinggian": 95,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 120
     },
@@ -5509,9 +5509,9 @@
         "FID": 121,
         "nama_fitur": "Selatan Balairung tangga 39",
         "lantai": 1,
-        "ketinggian": 12.25,
+        "ketinggian": 98,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 121
     },
@@ -5556,9 +5556,9 @@
         "FID": 122,
         "nama_fitur": "Selatan Balairung tangga 40",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 122
     },
@@ -5595,9 +5595,9 @@
         "FID": 123,
         "nama_fitur": "Sayap utara barat laut tangga kecil 1",
         "lantai": 1,
-        "ketinggian": 0.625,
+        "ketinggian": 5,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 123
     },
@@ -5634,9 +5634,9 @@
         "FID": 124,
         "nama_fitur": "Sayap utara barat laut tangga kecil 2",
         "lantai": 1,
-        "ketinggian": 1.125,
+        "ketinggian": 9,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 124
     },
@@ -5673,9 +5673,9 @@
         "FID": 125,
         "nama_fitur": "Sayap utara barat laut tangga kecil 3",
         "lantai": 1,
-        "ketinggian": 1.625,
+        "ketinggian": 13,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 125
     },
@@ -5712,9 +5712,9 @@
         "FID": 126,
         "nama_fitur": "Sayap utara barat laut tangga kecil 4",
         "lantai": 1,
-        "ketinggian": 2.125,
+        "ketinggian": 17,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 126
     },
@@ -5751,9 +5751,9 @@
         "FID": 127,
         "nama_fitur": "Sayap utara barat laut tangga kecil 5",
         "lantai": 1,
-        "ketinggian": 2.625,
+        "ketinggian": 21,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 127
     },
@@ -5798,9 +5798,9 @@
         "FID": 128,
         "nama_fitur": "Sayap utara barat laut tangga kecil 6",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 128
     },
@@ -5837,9 +5837,9 @@
         "FID": 129,
         "nama_fitur": "Sayap utara barat laut tangga 1",
         "lantai": 1,
-        "ketinggian": 3.5,
+        "ketinggian": 28,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 129
     },
@@ -5876,9 +5876,9 @@
         "FID": 130,
         "nama_fitur": "Sayap utara barat laut tangga 2",
         "lantai": 1,
-        "ketinggian": 3.875,
+        "ketinggian": 31,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 130
     },
@@ -5915,9 +5915,9 @@
         "FID": 131,
         "nama_fitur": "Sayap utara barat laut tangga 3",
         "lantai": 1,
-        "ketinggian": 4.25,
+        "ketinggian": 34,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 131
     },
@@ -5954,9 +5954,9 @@
         "FID": 132,
         "nama_fitur": "Sayap utara barat laut tangga 4",
         "lantai": 1,
-        "ketinggian": 4.625,
+        "ketinggian": 37,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 132
     },
@@ -5993,9 +5993,9 @@
         "FID": 133,
         "nama_fitur": "Sayap utara barat laut tangga 5",
         "lantai": 1,
-        "ketinggian": 5.125,
+        "ketinggian": 41,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 133
     },
@@ -6032,9 +6032,9 @@
         "FID": 134,
         "nama_fitur": "Sayap utara barat laut tangga 6",
         "lantai": 1,
-        "ketinggian": 5.625,
+        "ketinggian": 45,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 134
     },
@@ -6075,9 +6075,9 @@
         "FID": 135,
         "nama_fitur": "Sayap utara barat laut tangga 7",
         "lantai": 1,
-        "ketinggian": 6.125,
+        "ketinggian": 49,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 135
     },
@@ -6114,9 +6114,9 @@
         "FID": 136,
         "nama_fitur": "Sayap utara barat laut tangga 8",
         "lantai": 1,
-        "ketinggian": 6.625,
+        "ketinggian": 53,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 136
     },
@@ -6153,9 +6153,9 @@
         "FID": 137,
         "nama_fitur": "Sayap utara barat laut tangga 9",
         "lantai": 1,
-        "ketinggian": 7.125,
+        "ketinggian": 57,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 137
     },
@@ -6196,9 +6196,9 @@
         "FID": 138,
         "nama_fitur": "Sayap utara barat laut tangga 10",
         "lantai": 1,
-        "ketinggian": 7.625,
+        "ketinggian": 61,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 138
     },
@@ -6235,9 +6235,9 @@
         "FID": 139,
         "nama_fitur": "Sayap utara barat laut tangga 11",
         "lantai": 1,
-        "ketinggian": 8.125,
+        "ketinggian": 65,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 139
     },
@@ -6274,9 +6274,9 @@
         "FID": 140,
         "nama_fitur": "Sayap utara barat laut tangga 12",
         "lantai": 1,
-        "ketinggian": 8.625,
+        "ketinggian": 69,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 140
     },
@@ -6313,9 +6313,9 @@
         "FID": 141,
         "nama_fitur": "Sayap utara barat laut tangga 13",
         "lantai": 1,
-        "ketinggian": 9.125,
+        "ketinggian": 73,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 141
     },
@@ -6352,9 +6352,9 @@
         "FID": 142,
         "nama_fitur": "Sayap utara barat laut tangga 14",
         "lantai": 1,
-        "ketinggian": 9.625,
+        "ketinggian": 77,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 142
     },
@@ -6395,9 +6395,9 @@
         "FID": 143,
         "nama_fitur": "Sayap utara barat laut tangga 15",
         "lantai": 1,
-        "ketinggian": 10.125,
+        "ketinggian": 81,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 143
     },
@@ -6434,9 +6434,9 @@
         "FID": 144,
         "nama_fitur": "Sayap utara barat laut tangga 16",
         "lantai": 1,
-        "ketinggian": 10.625,
+        "ketinggian": 85,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 144
     },
@@ -6473,9 +6473,9 @@
         "FID": 145,
         "nama_fitur": "Sayap utara barat laut tangga 17",
         "lantai": 1,
-        "ketinggian": 11.125,
+        "ketinggian": 89,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 145
     },
@@ -6512,9 +6512,9 @@
         "FID": 146,
         "nama_fitur": "Sayap utara barat laut tangga 18",
         "lantai": 1,
-        "ketinggian": 11.625,
+        "ketinggian": 93,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 146
     },
@@ -6551,9 +6551,9 @@
         "FID": 147,
         "nama_fitur": "Sayap utara barat laut tangga 19",
         "lantai": 1,
-        "ketinggian": 12.125,
+        "ketinggian": 97,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 147
     },
@@ -6590,9 +6590,9 @@
         "FID": 148,
         "nama_fitur": "Sayap utara barat laut tangga 20",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 148
     },
@@ -6633,7 +6633,7 @@
         "FID": 149,
         "nama_fitur": "DKM Ruang Server",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6676,7 +6676,7 @@
         "FID": 150,
         "nama_fitur": "DKM Ruang Kontrol CCTV",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6719,7 +6719,7 @@
         "FID": 151,
         "nama_fitur": "DKM Ruang Mesin Telepon",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6758,7 +6758,7 @@
         "FID": 152,
         "nama_fitur": "DKM Wesel Board",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6805,7 +6805,7 @@
         "FID": 153,
         "nama_fitur": "DKM Ruang Arsip",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6852,7 +6852,7 @@
         "FID": 154,
         "nama_fitur": "DKM Loket",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6891,7 +6891,7 @@
         "FID": 155,
         "nama_fitur": "DKM Ruang Staf",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6930,7 +6930,7 @@
         "FID": 156,
         "nama_fitur": "DKM Ruang rapat",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6969,7 +6969,7 @@
         "FID": 157,
         "nama_fitur": "DKM Ruang Direktur",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -7008,7 +7008,7 @@
         "FID": 158,
         "nama_fitur": "DKM Resepsionis dan Ruang Tamu",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -7047,7 +7047,7 @@
         "FID": 159,
         "nama_fitur": "DKM Ruang Kasubdit Kesejahteraan Mahasiswa",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -7086,7 +7086,7 @@
         "FID": 160,
         "nama_fitur": "DKM Ruang Sekretaris Direktur",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -7125,7 +7125,7 @@
         "FID": 161,
         "nama_fitur": "DKM Ruang Kasubdit Organisasi dan Fasilitas Manusia",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -7164,7 +7164,7 @@
         "FID": 162,
         "nama_fitur": "DKM Ruang Sekretaris Direktorat",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -7259,7 +7259,7 @@
         "FID": 163,
         "nama_fitur": "Lorong sayap barat",
         "lantai": 1,
-        "ketinggian": 0.0,
+        "ketinggian": 0,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -7350,7 +7350,7 @@
         "FID": 164,
         "nama_fitur": "Lorong sayap timur",
         "lantai": 1,
-        "ketinggian": 0.0,
+        "ketinggian": 0,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -7389,9 +7389,9 @@
         "FID": 165,
         "nama_fitur": "Sayap selatan barat daya tangga kecil 1",
         "lantai": 1,
-        "ketinggian": 0.625,
+        "ketinggian": 5,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 165
     },
@@ -7428,9 +7428,9 @@
         "FID": 166,
         "nama_fitur": "Sayap selatan barat daya tangga kecil 2",
         "lantai": 1,
-        "ketinggian": 1.125,
+        "ketinggian": 9,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 166
     },
@@ -7467,9 +7467,9 @@
         "FID": 167,
         "nama_fitur": "Sayap selatan barat daya tangga kecil 3",
         "lantai": 1,
-        "ketinggian": 1.625,
+        "ketinggian": 13,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 167
     },
@@ -7506,9 +7506,9 @@
         "FID": 168,
         "nama_fitur": "Sayap selatan barat daya tangga kecil 4",
         "lantai": 1,
-        "ketinggian": 2.125,
+        "ketinggian": 17,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 168
     },
@@ -7545,9 +7545,9 @@
         "FID": 169,
         "nama_fitur": "Sayap selatan barat daya tangga kecil 5",
         "lantai": 1,
-        "ketinggian": 2.625,
+        "ketinggian": 21,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 169
     },
@@ -7584,9 +7584,9 @@
         "FID": 170,
         "nama_fitur": "Sayap selatan barat daya tangga kecil 6",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 170
     },
@@ -7663,7 +7663,7 @@
         "FID": 171,
         "nama_fitur": "Sayap selatan barat daya gudang",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -7738,7 +7738,7 @@
         "FID": 172,
         "nama_fitur": "Sayap selatan barat daya dapur",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -7777,9 +7777,9 @@
         "FID": 173,
         "nama_fitur": "Sayap selatan barat daya tangga 1",
         "lantai": 1,
-        "ketinggian": 3.5,
+        "ketinggian": 28,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 173
     },
@@ -7816,9 +7816,9 @@
         "FID": 174,
         "nama_fitur": "Sayap selatan barat daya tangga 2",
         "lantai": 1,
-        "ketinggian": 3.875,
+        "ketinggian": 31,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 174
     },
@@ -7855,9 +7855,9 @@
         "FID": 175,
         "nama_fitur": "Sayap selatan barat daya tangga 3",
         "lantai": 1,
-        "ketinggian": 4.25,
+        "ketinggian": 34,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 175
     },
@@ -7894,9 +7894,9 @@
         "FID": 176,
         "nama_fitur": "Sayap selatan barat daya tangga 4",
         "lantai": 1,
-        "ketinggian": 4.625,
+        "ketinggian": 37,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 176
     },
@@ -7933,9 +7933,9 @@
         "FID": 177,
         "nama_fitur": "Sayap selatan barat daya tangga 5",
         "lantai": 1,
-        "ketinggian": 5.125,
+        "ketinggian": 41,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 177
     },
@@ -7976,9 +7976,9 @@
         "FID": 178,
         "nama_fitur": "Sayap selatan barat daya tangga 6",
         "lantai": 1,
-        "ketinggian": 5.625,
+        "ketinggian": 45,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 178
     },
@@ -8019,9 +8019,9 @@
         "FID": 179,
         "nama_fitur": "Sayap selatan barat daya tangga 7",
         "lantai": 1,
-        "ketinggian": 6.125,
+        "ketinggian": 49,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 179
     },
@@ -8062,9 +8062,9 @@
         "FID": 180,
         "nama_fitur": "Sayap selatan barat daya tangga 8",
         "lantai": 1,
-        "ketinggian": 6.625,
+        "ketinggian": 53,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 180
     },
@@ -8101,9 +8101,9 @@
         "FID": 181,
         "nama_fitur": "Sayap selatan barat daya tangga 9",
         "lantai": 1,
-        "ketinggian": 7.125,
+        "ketinggian": 57,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 181
     },
@@ -8140,9 +8140,9 @@
         "FID": 182,
         "nama_fitur": "Sayap selatan barat daya tangga 10",
         "lantai": 1,
-        "ketinggian": 7.625,
+        "ketinggian": 61,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 182
     },
@@ -8179,9 +8179,9 @@
         "FID": 183,
         "nama_fitur": "Sayap selatan barat daya tangga 11",
         "lantai": 1,
-        "ketinggian": 8.125,
+        "ketinggian": 65,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 183
     },
@@ -8218,9 +8218,9 @@
         "FID": 184,
         "nama_fitur": "Sayap selatan barat daya tangga 12",
         "lantai": 1,
-        "ketinggian": 8.625,
+        "ketinggian": 69,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 184
     },
@@ -8257,9 +8257,9 @@
         "FID": 185,
         "nama_fitur": "Sayap selatan barat daya tangga 13",
         "lantai": 1,
-        "ketinggian": 9.125,
+        "ketinggian": 73,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 185
     },
@@ -8296,9 +8296,9 @@
         "FID": 186,
         "nama_fitur": "Sayap selatan barat daya tangga 14",
         "lantai": 1,
-        "ketinggian": 9.625,
+        "ketinggian": 77,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 186
     },
@@ -8335,9 +8335,9 @@
         "FID": 187,
         "nama_fitur": "Sayap selatan barat daya tangga 15",
         "lantai": 1,
-        "ketinggian": 10.125,
+        "ketinggian": 81,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 187
     },
@@ -8374,9 +8374,9 @@
         "FID": 188,
         "nama_fitur": "Sayap selatan barat daya tangga 16",
         "lantai": 1,
-        "ketinggian": 10.625,
+        "ketinggian": 85,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 188
     },
@@ -8413,9 +8413,9 @@
         "FID": 189,
         "nama_fitur": "Sayap selatan barat daya tangga 17",
         "lantai": 1,
-        "ketinggian": 11.125,
+        "ketinggian": 89,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 189
     },
@@ -8452,9 +8452,9 @@
         "FID": 190,
         "nama_fitur": "Sayap selatan barat daya tangga 18",
         "lantai": 1,
-        "ketinggian": 11.625,
+        "ketinggian": 93,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 190
     },
@@ -8491,9 +8491,9 @@
         "FID": 191,
         "nama_fitur": "Sayap selatan barat daya tangga 19",
         "lantai": 1,
-        "ketinggian": 12.125,
+        "ketinggian": 97,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 191
     },
@@ -8530,9 +8530,9 @@
         "FID": 192,
         "nama_fitur": "Sayap selatan barat daya tangga 20",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 192
     },
@@ -8693,7 +8693,7 @@
         "FID": 193,
         "nama_fitur": "Lorong sayap selatan luar",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -8760,7 +8760,7 @@
         "FID": 194,
         "nama_fitur": "Lorong sayap selatan barat daya",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -8811,7 +8811,7 @@
         "FID": 195,
         "nama_fitur": "Sayap selatan barat daya KM laki-laki",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -8862,7 +8862,7 @@
         "FID": 196,
         "nama_fitur": "Sayap selatan barat daya KM perempuan",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -8901,7 +8901,7 @@
         "FID": 197,
         "nama_fitur": "KHO Ruang Kosong",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -8952,7 +8952,7 @@
         "FID": 198,
         "nama_fitur": "HMP Ruang Kosong",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -8991,7 +8991,7 @@
         "FID": 199,
         "nama_fitur": "KHO Ruang Rapat KHO dan HMP",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9038,7 +9038,7 @@
         "FID": 200,
         "nama_fitur": "HMP Resepsionis dan Ruang Tamu",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -9077,7 +9077,7 @@
         "FID": 201,
         "nama_fitur": "HMP Ruang Kasubbag Layanan Informasi",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -9132,7 +9132,7 @@
         "FID": 202,
         "nama_fitur": "KHO Ruang Staf",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9171,7 +9171,7 @@
         "FID": 203,
         "nama_fitur": "KHO Ruang Kabag Per UU, Organisasi, dan Tata Laksana",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9210,7 +9210,7 @@
         "FID": 204,
         "nama_fitur": "KHO Ruang Kabag Hukum",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9261,7 +9261,7 @@
         "FID": 205,
         "nama_fitur": "KHO Resepsionis dan Ruang Tamu",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9304,7 +9304,7 @@
         "FID": 206,
         "nama_fitur": "KHO Ruang Kepala",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9343,7 +9343,7 @@
         "FID": 207,
         "nama_fitur": "KHO Ruang Sidang",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9390,7 +9390,7 @@
         "FID": 208,
         "nama_fitur": "KHO Gudang",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9429,7 +9429,7 @@
         "FID": 209,
         "nama_fitur": "HMP Fortakgama",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -9468,7 +9468,7 @@
         "FID": 210,
         "nama_fitur": "HMP Ruang Tunggu Tamu",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -9507,7 +9507,7 @@
         "FID": 211,
         "nama_fitur": "HMP Ruang Kasubbag Pemberitaan",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -9546,7 +9546,7 @@
         "FID": 212,
         "nama_fitur": "HMP Ruang Kepala Bagian",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -9601,7 +9601,7 @@
         "FID": 213,
         "nama_fitur": "HMP Ruang Staf",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -9640,9 +9640,9 @@
         "FID": 214,
         "nama_fitur": "Barat KTURT tangga 1",
         "lantai": 1,
-        "ketinggian": 3.375,
+        "ketinggian": 27,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 214
     },
@@ -9679,9 +9679,9 @@
         "FID": 215,
         "nama_fitur": "Barat KTURT tangga 2",
         "lantai": 1,
-        "ketinggian": 4.125,
+        "ketinggian": 33,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 215
     },
@@ -9718,9 +9718,9 @@
         "FID": 216,
         "nama_fitur": "Barat KTURT tangga 3",
         "lantai": 1,
-        "ketinggian": 4.875,
+        "ketinggian": 39,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 216
     },
@@ -9757,9 +9757,9 @@
         "FID": 217,
         "nama_fitur": "Barat KTURT tangga 4",
         "lantai": 1,
-        "ketinggian": 5.625,
+        "ketinggian": 45,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 217
     },
@@ -9796,9 +9796,9 @@
         "FID": 218,
         "nama_fitur": "Barat KTURT tangga 5",
         "lantai": 1,
-        "ketinggian": 6.375,
+        "ketinggian": 51,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 218
     },
@@ -9835,9 +9835,9 @@
         "FID": 219,
         "nama_fitur": "Barat KTURT tangga 6",
         "lantai": 1,
-        "ketinggian": 7.125,
+        "ketinggian": 57,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 219
     },
@@ -9874,9 +9874,9 @@
         "FID": 220,
         "nama_fitur": "Barat KTURT tangga 7",
         "lantai": 1,
-        "ketinggian": 7.875,
+        "ketinggian": 63,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 220
     },
@@ -9913,9 +9913,9 @@
         "FID": 221,
         "nama_fitur": "Barat KTURT tangga 8",
         "lantai": 1,
-        "ketinggian": 8.625,
+        "ketinggian": 69,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 221
     },
@@ -9952,9 +9952,9 @@
         "FID": 222,
         "nama_fitur": "Barat KTURT tangga 9",
         "lantai": 1,
-        "ketinggian": 8.875,
+        "ketinggian": 71,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 222
     },
@@ -9991,9 +9991,9 @@
         "FID": 223,
         "nama_fitur": "Barat KTURT tangga 10",
         "lantai": 1,
-        "ketinggian": 9.625,
+        "ketinggian": 77,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 223
     },
@@ -10030,9 +10030,9 @@
         "FID": 224,
         "nama_fitur": "Barat KTURT tangga 11",
         "lantai": 1,
-        "ketinggian": 10.375,
+        "ketinggian": 83,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 224
     },
@@ -10069,9 +10069,9 @@
         "FID": 225,
         "nama_fitur": "Barat KTURT tangga 12",
         "lantai": 1,
-        "ketinggian": 11.125,
+        "ketinggian": 89,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 225
     },
@@ -10108,9 +10108,9 @@
         "FID": 226,
         "nama_fitur": "Barat KTURT tangga 13",
         "lantai": 1,
-        "ketinggian": 11.875,
+        "ketinggian": 95,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 226
     },
@@ -10147,9 +10147,9 @@
         "FID": 227,
         "nama_fitur": "Barat KTURT tangga 14",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 227
     },
@@ -10186,9 +10186,9 @@
         "FID": 228,
         "nama_fitur": "Utara KTURT tangga 5",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 228
     },
@@ -10225,9 +10225,9 @@
         "FID": 229,
         "nama_fitur": "Utara KTURT tangga 4",
         "lantai": 1,
-        "ketinggian": 2.5,
+        "ketinggian": 20,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 229
     },
@@ -10264,9 +10264,9 @@
         "FID": 230,
         "nama_fitur": "Utara KTURT tangga 3",
         "lantai": 1,
-        "ketinggian": 1.875,
+        "ketinggian": 15,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 230
     },
@@ -10303,9 +10303,9 @@
         "FID": 231,
         "nama_fitur": "Utara KTURT tangga 2",
         "lantai": 1,
-        "ketinggian": 1.25,
+        "ketinggian": 10,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 231
     },
@@ -10342,9 +10342,9 @@
         "FID": 232,
         "nama_fitur": "Barat KTURT tangga kecil 8",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 232
     },
@@ -10381,9 +10381,9 @@
         "FID": 233,
         "nama_fitur": "Barat KTURT tangga kecil 7",
         "lantai": 1,
-        "ketinggian": 2.75,
+        "ketinggian": 22,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 233
     },
@@ -10420,9 +10420,9 @@
         "FID": 234,
         "nama_fitur": "Barat KTURT tangga kecil 6",
         "lantai": 1,
-        "ketinggian": 2.375,
+        "ketinggian": 19,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 234
     },
@@ -10459,9 +10459,9 @@
         "FID": 235,
         "nama_fitur": "Barat KTURT tangga kecil 5",
         "lantai": 1,
-        "ketinggian": 2.0,
+        "ketinggian": 16,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 235
     },
@@ -10498,9 +10498,9 @@
         "FID": 236,
         "nama_fitur": "Barat KTURT tangga kecil 4",
         "lantai": 1,
-        "ketinggian": 1.625,
+        "ketinggian": 13,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 236
     },
@@ -10561,9 +10561,9 @@
         "FID": 237,
         "nama_fitur": "Barat KTURT tangga kecil 3",
         "lantai": 1,
-        "ketinggian": 1.25,
+        "ketinggian": 10,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 237
     },
@@ -10628,9 +10628,9 @@
         "FID": 238,
         "nama_fitur": "Barat KTURT tangga kecil 2",
         "lantai": 1,
-        "ketinggian": 0.875,
+        "ketinggian": 7,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 238
     },
@@ -10695,9 +10695,9 @@
         "FID": 239,
         "nama_fitur": "Barat KTURT tangga kecil 1",
         "lantai": 1,
-        "ketinggian": 0.5,
+        "ketinggian": 4,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 239
     },
@@ -10734,9 +10734,9 @@
         "FID": 240,
         "nama_fitur": "Timur KTURT tangga kecil 8",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 240
     },
@@ -10773,9 +10773,9 @@
         "FID": 241,
         "nama_fitur": "Timur KTURT tangga kecil 7",
         "lantai": 1,
-        "ketinggian": 2.75,
+        "ketinggian": 22,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 241
     },
@@ -10812,9 +10812,9 @@
         "FID": 242,
         "nama_fitur": "Timur KTURT tangga kecil 6",
         "lantai": 1,
-        "ketinggian": 2.375,
+        "ketinggian": 19,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 242
     },
@@ -10851,9 +10851,9 @@
         "FID": 243,
         "nama_fitur": "Timur KTURT tangga kecil 5",
         "lantai": 1,
-        "ketinggian": 2.0,
+        "ketinggian": 16,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 243
     },
@@ -10890,9 +10890,9 @@
         "FID": 244,
         "nama_fitur": "Timur KTURT tangga kecil 4",
         "lantai": 1,
-        "ketinggian": 1.625,
+        "ketinggian": 13,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 244
     },
@@ -10957,9 +10957,9 @@
         "FID": 245,
         "nama_fitur": "Timur KTURT tangga kecil 3",
         "lantai": 1,
-        "ketinggian": 1.25,
+        "ketinggian": 10,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 245
     },
@@ -11024,9 +11024,9 @@
         "FID": 246,
         "nama_fitur": "Timur KTURT tangga kecil 2",
         "lantai": 1,
-        "ketinggian": 0.875,
+        "ketinggian": 7,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 246
     },
@@ -11091,9 +11091,9 @@
         "FID": 247,
         "nama_fitur": "Timur KTURT tangga kecil 1",
         "lantai": 1,
-        "ketinggian": 0.5,
+        "ketinggian": 4,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 247
     },
@@ -11130,7 +11130,7 @@
         "FID": 248,
         "nama_fitur": "HMP Ruang Arsip",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -11169,7 +11169,7 @@
         "FID": 249,
         "nama_fitur": "KTURT Ruang Kabag TU",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11216,7 +11216,7 @@
         "FID": 250,
         "nama_fitur": "KTURT Ruang Arsip",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11263,7 +11263,7 @@
         "FID": 251,
         "nama_fitur": "KTURT Post Center",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11302,7 +11302,7 @@
         "FID": 252,
         "nama_fitur": "KTURT Ruang Staf Rumah Tangga",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11341,7 +11341,7 @@
         "FID": 253,
         "nama_fitur": "KTURT Ruang Kabag Rumah Tangga",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11388,7 +11388,7 @@
         "FID": 254,
         "nama_fitur": "KTURT Ruang Tata Suara",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11435,7 +11435,7 @@
         "FID": 255,
         "nama_fitur": "KTURT Ruang Kosong",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11482,7 +11482,7 @@
         "FID": 256,
         "nama_fitur": "KTURT Ruang Rapat",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11521,7 +11521,7 @@
         "FID": 257,
         "nama_fitur": "KTURT Ruang Kepala",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11564,7 +11564,7 @@
         "FID": 258,
         "nama_fitur": "KTURT Resepsionis dan Ruang Tamu",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11603,7 +11603,7 @@
         "FID": 259,
         "nama_fitur": "KTURT Ruang Staf Tata Usaha",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11674,7 +11674,7 @@
         "FID": 260,
         "nama_fitur": "Sayap selatan tenggara dapur",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -11713,9 +11713,9 @@
         "FID": 261,
         "nama_fitur": "Timur KTURT tangga 14",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 261
     },
@@ -11752,9 +11752,9 @@
         "FID": 262,
         "nama_fitur": "Timur KTURT tangga 13",
         "lantai": 1,
-        "ketinggian": 11.875,
+        "ketinggian": 95,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 262
     },
@@ -11795,9 +11795,9 @@
         "FID": 263,
         "nama_fitur": "Timur KTURT tangga 12",
         "lantai": 1,
-        "ketinggian": 11.125,
+        "ketinggian": 89,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 263
     },
@@ -11834,9 +11834,9 @@
         "FID": 264,
         "nama_fitur": "Timur KTURT tangga 11",
         "lantai": 1,
-        "ketinggian": 10.375,
+        "ketinggian": 83,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 264
     },
@@ -11873,9 +11873,9 @@
         "FID": 265,
         "nama_fitur": "Timur KTURT tangga 10",
         "lantai": 1,
-        "ketinggian": 9.625,
+        "ketinggian": 77,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 265
     },
@@ -11912,9 +11912,9 @@
         "FID": 266,
         "nama_fitur": "Timur KTURT tangga 9",
         "lantai": 1,
-        "ketinggian": 8.875,
+        "ketinggian": 71,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 266
     },
@@ -11951,9 +11951,9 @@
         "FID": 267,
         "nama_fitur": "Timur KTURT tangga 8",
         "lantai": 1,
-        "ketinggian": 8.625,
+        "ketinggian": 69,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 267
     },
@@ -11994,9 +11994,9 @@
         "FID": 268,
         "nama_fitur": "Timur KTURT tangga 7",
         "lantai": 1,
-        "ketinggian": 7.875,
+        "ketinggian": 63,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 268
     },
@@ -12033,9 +12033,9 @@
         "FID": 269,
         "nama_fitur": "Timur KTURT tangga 6",
         "lantai": 1,
-        "ketinggian": 7.125,
+        "ketinggian": 57,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 269
     },
@@ -12072,9 +12072,9 @@
         "FID": 270,
         "nama_fitur": "Timur KTURT tangga 5",
         "lantai": 1,
-        "ketinggian": 6.375,
+        "ketinggian": 51,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 270
     },
@@ -12111,9 +12111,9 @@
         "FID": 271,
         "nama_fitur": "Timur KTURT tangga 4",
         "lantai": 1,
-        "ketinggian": 5.625,
+        "ketinggian": 45,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 271
     },
@@ -12150,9 +12150,9 @@
         "FID": 272,
         "nama_fitur": "Timur KTURT tangga 3",
         "lantai": 1,
-        "ketinggian": 4.875,
+        "ketinggian": 39,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 272
     },
@@ -12189,9 +12189,9 @@
         "FID": 273,
         "nama_fitur": "Timur KTURT tangga 2",
         "lantai": 1,
-        "ketinggian": 4.125,
+        "ketinggian": 33,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 273
     },
@@ -12228,9 +12228,9 @@
         "FID": 274,
         "nama_fitur": "Timur KTURT tangga 1",
         "lantai": 1,
-        "ketinggian": 3.375,
+        "ketinggian": 27,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 274
     },
@@ -12451,7 +12451,7 @@
         "FID": 275,
         "nama_fitur": "Lorong sayap selatan dalam",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -12522,7 +12522,7 @@
         "FID": 276,
         "nama_fitur": "Sayap selatan tenggara gudang",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -12573,7 +12573,7 @@
         "FID": 277,
         "nama_fitur": "Sayap selatan tenggara KM perempuan",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -12624,7 +12624,7 @@
         "FID": 278,
         "nama_fitur": "Sayap selatan tenggara KM laki-laki",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -12695,7 +12695,7 @@
         "FID": 279,
         "nama_fitur": "Lorong sayap selatan tenggara",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -12734,9 +12734,9 @@
         "FID": 280,
         "nama_fitur": "Sayap selatan tenggara tangga kecil 1",
         "lantai": 1,
-        "ketinggian": 0.625,
+        "ketinggian": 5,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 280
     },
@@ -12777,9 +12777,9 @@
         "FID": 281,
         "nama_fitur": "Sayap selatan tenggara tangga kecil 2",
         "lantai": 1,
-        "ketinggian": 1.125,
+        "ketinggian": 9,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 281
     },
@@ -12824,9 +12824,9 @@
         "FID": 282,
         "nama_fitur": "Sayap selatan tenggara tangga kecil 3",
         "lantai": 1,
-        "ketinggian": 1.625,
+        "ketinggian": 13,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 282
     },
@@ -12863,9 +12863,9 @@
         "FID": 283,
         "nama_fitur": "Sayap selatan tenggara tangga kecil 4",
         "lantai": 1,
-        "ketinggian": 2.125,
+        "ketinggian": 17,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 283
     },
@@ -12902,9 +12902,9 @@
         "FID": 284,
         "nama_fitur": "Sayap selatan tenggara tangga kecil 5",
         "lantai": 1,
-        "ketinggian": 2.625,
+        "ketinggian": 21,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 284
     },
@@ -12945,9 +12945,9 @@
         "FID": 285,
         "nama_fitur": "Sayap selatan tenggara tangga kecil 6",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 285
     },
@@ -12984,9 +12984,9 @@
         "FID": 286,
         "nama_fitur": "Sayap selatan tenggara tangga 1",
         "lantai": 1,
-        "ketinggian": 3.5,
+        "ketinggian": 28,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 286
     },
@@ -13027,9 +13027,9 @@
         "FID": 287,
         "nama_fitur": "Sayap selatan tenggara tangga 2",
         "lantai": 1,
-        "ketinggian": 3.875,
+        "ketinggian": 31,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 287
     },
@@ -13066,9 +13066,9 @@
         "FID": 288,
         "nama_fitur": "Sayap selatan tenggara tangga 3",
         "lantai": 1,
-        "ketinggian": 4.25,
+        "ketinggian": 34,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 288
     },
@@ -13109,9 +13109,9 @@
         "FID": 289,
         "nama_fitur": "Sayap selatan tenggara tangga 4",
         "lantai": 1,
-        "ketinggian": 4.625,
+        "ketinggian": 37,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 289
     },
@@ -13148,9 +13148,9 @@
         "FID": 290,
         "nama_fitur": "Sayap selatan tenggara tangga 5",
         "lantai": 1,
-        "ketinggian": 5.125,
+        "ketinggian": 41,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 290
     },
@@ -13187,9 +13187,9 @@
         "FID": 291,
         "nama_fitur": "Sayap selatan tenggara tangga 6",
         "lantai": 1,
-        "ketinggian": 5.625,
+        "ketinggian": 45,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 291
     },
@@ -13230,9 +13230,9 @@
         "FID": 292,
         "nama_fitur": "Sayap selatan tenggara tangga 7",
         "lantai": 1,
-        "ketinggian": 6.125,
+        "ketinggian": 49,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 292
     },
@@ -13269,9 +13269,9 @@
         "FID": 293,
         "nama_fitur": "Sayap selatan tenggara tangga 8",
         "lantai": 1,
-        "ketinggian": 6.625,
+        "ketinggian": 53,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 293
     },
@@ -13308,9 +13308,9 @@
         "FID": 294,
         "nama_fitur": "Sayap selatan tenggara tangga 9",
         "lantai": 1,
-        "ketinggian": 7.125,
+        "ketinggian": 57,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 294
     },
@@ -13347,9 +13347,9 @@
         "FID": 295,
         "nama_fitur": "Sayap selatan tenggara tangga 10",
         "lantai": 1,
-        "ketinggian": 7.625,
+        "ketinggian": 61,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 295
     },
@@ -13386,9 +13386,9 @@
         "FID": 296,
         "nama_fitur": "Sayap selatan tenggara tangga 11",
         "lantai": 1,
-        "ketinggian": 8.125,
+        "ketinggian": 65,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 296
     },
@@ -13425,9 +13425,9 @@
         "FID": 297,
         "nama_fitur": "Sayap selatan tenggara tangga 12",
         "lantai": 1,
-        "ketinggian": 8.625,
+        "ketinggian": 69,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 297
     },
@@ -13464,9 +13464,9 @@
         "FID": 298,
         "nama_fitur": "Sayap selatan tenggara tangga 13",
         "lantai": 1,
-        "ketinggian": 9.125,
+        "ketinggian": 73,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 298
     },
@@ -13503,9 +13503,9 @@
         "FID": 299,
         "nama_fitur": "Sayap selatan tenggara tangga 14",
         "lantai": 1,
-        "ketinggian": 9.625,
+        "ketinggian": 77,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 299
     },
@@ -13542,9 +13542,9 @@
         "FID": 300,
         "nama_fitur": "Sayap selatan tenggara tangga 15",
         "lantai": 1,
-        "ketinggian": 10.125,
+        "ketinggian": 81,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 300
     },
@@ -13581,9 +13581,9 @@
         "FID": 301,
         "nama_fitur": "Sayap selatan tenggara tangga 16",
         "lantai": 1,
-        "ketinggian": 10.625,
+        "ketinggian": 85,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 301
     },
@@ -13620,9 +13620,9 @@
         "FID": 302,
         "nama_fitur": "Sayap selatan tenggara tangga 17",
         "lantai": 1,
-        "ketinggian": 11.125,
+        "ketinggian": 89,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 302
     },
@@ -13659,9 +13659,9 @@
         "FID": 303,
         "nama_fitur": "Sayap selatan tenggara tangga 18",
         "lantai": 1,
-        "ketinggian": 11.625,
+        "ketinggian": 93,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 303
     },
@@ -13698,9 +13698,9 @@
         "FID": 304,
         "nama_fitur": "Sayap selatan tenggara tangga 19",
         "lantai": 1,
-        "ketinggian": 12.125,
+        "ketinggian": 97,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 304
     },
@@ -13737,9 +13737,9 @@
         "FID": 305,
         "nama_fitur": "Sayap selatan tenggara tangga 20",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 305
     },
@@ -13784,7 +13784,7 @@
         "FID": 306,
         "nama_fitur": "DSDM Ruang Sekretaris",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -13831,7 +13831,7 @@
         "FID": 307,
         "nama_fitur": "DSDM Ruang Subdit Pengadaan dan Remunerasi",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -13874,7 +13874,7 @@
         "FID": 308,
         "nama_fitur": "DSDM Ruang Sidang",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -13929,7 +13929,7 @@
         "FID": 309,
         "nama_fitur": "DSDM Ruang Direktur",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -13968,7 +13968,7 @@
         "FID": 310,
         "nama_fitur": "DSDM Resepsionis dan Ruang Tamu",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14007,7 +14007,7 @@
         "FID": 311,
         "nama_fitur": "DSDM Gudang",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14062,7 +14062,7 @@
         "FID": 312,
         "nama_fitur": "DSDM Ruang Subdit Kepegawaian",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14101,7 +14101,7 @@
         "FID": 313,
         "nama_fitur": "DSDM Ruang Subdit SDM",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14156,7 +14156,7 @@
         "FID": 314,
         "nama_fitur": "DSDM Ruang TI",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14211,7 +14211,7 @@
         "FID": 315,
         "nama_fitur": "DSDM Ruang Arsip",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14250,7 +14250,7 @@
         "FID": 316,
         "nama_fitur": "DSDM Ruang Staf",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14301,7 +14301,7 @@
         "FID": 317,
         "nama_fitur": "Pos Satpam",
         "lantai": 1,
-        "ketinggian": 3.125,
+        "ketinggian": 25,
         "tinggi_das": 0,
         "warna": "khaki"
       },
@@ -14340,9 +14340,9 @@
         "FID": 318,
         "nama_fitur": "Timur Balairung tangga 14",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 318
     },
@@ -14379,9 +14379,9 @@
         "FID": 319,
         "nama_fitur": "Barat Balairung tangga 14",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 319
     },
@@ -14418,9 +14418,9 @@
         "FID": 320,
         "nama_fitur": "Utara KTURT tangga 1",
         "lantai": 1,
-        "ketinggian": 0.625,
+        "ketinggian": 5,
         "tinggi_das": 0,
-        "warna": "gray"
+        "warna": "white"
       },
       "id": 320
     },
@@ -14513,7 +14513,7 @@
         "FID": 321,
         "nama_fitur": "Sayap selatan barat daya dapur",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -14608,7 +14608,7 @@
         "FID": 322,
         "nama_fitur": "Sayap selatan barat daya gudang",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -14647,7 +14647,7 @@
         "FID": 323,
         "nama_fitur": "Sayap selatan barat daya KM",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -14698,7 +14698,7 @@
         "FID": 324,
         "nama_fitur": "Sayap selatan barat daya dinding luar",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -14737,7 +14737,7 @@
         "FID": 325,
         "nama_fitur": "Sayap selatan tengah dinding pembatas",
         "lantai": 1,
-        "ketinggian": 6.25,
+        "ketinggian": 50,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -14836,7 +14836,7 @@
         "FID": 326,
         "nama_fitur": "Sayap selatan tenggara dapur",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -14891,7 +14891,7 @@
         "FID": 327,
         "nama_fitur": "Sayap selatan tenggara dinding luar",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -14930,7 +14930,7 @@
         "FID": 328,
         "nama_fitur": "Sayap selatan tenggara KM",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -14981,7 +14981,7 @@
         "FID": 329,
         "nama_fitur": "Sayap selatan tenggara dinding pembatas",
         "lantai": 1,
-        "ketinggian": 6.25,
+        "ketinggian": 50,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15028,7 +15028,7 @@
         "FID": 330,
         "nama_fitur": "Sayap selatan barat daya dinding pembatas",
         "lantai": 1,
-        "ketinggian": 6.25,
+        "ketinggian": 50,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15127,7 +15127,7 @@
         "FID": 331,
         "nama_fitur": "Sayap selatan tenggara gudang",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -15166,7 +15166,7 @@
         "FID": 332,
         "nama_fitur": "Sayap selatan tenggara dinding pembatas dalam 4",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15229,7 +15229,7 @@
         "FID": 333,
         "nama_fitur": "Sayap selatan tenggara dinding pembatas dalam 1",
         "lantai": 1,
-        "ketinggian": 6.25,
+        "ketinggian": 50,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15268,7 +15268,7 @@
         "FID": 334,
         "nama_fitur": "Sayap selatan barat daya dinding pembatas dalam 4",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15315,7 +15315,7 @@
         "FID": 335,
         "nama_fitur": "Sayap selatan tenggara dinding pembatas dalam 3",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -15354,7 +15354,7 @@
         "FID": 336,
         "nama_fitur": "Sayap selatan tenggara dinding pembatas dalam 2",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -15417,7 +15417,7 @@
         "FID": 337,
         "nama_fitur": "Sayap selatan barat daya dinding pembatas dalam 1",
         "lantai": 1,
-        "ketinggian": 6.25,
+        "ketinggian": 50,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15456,7 +15456,7 @@
         "FID": 338,
         "nama_fitur": "Sayap selatan barat daya dinding pembatas dalam 2",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -15507,7 +15507,7 @@
         "FID": 339,
         "nama_fitur": "Sayap selatan barat daya dinding pembatas dalam 3",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -15562,7 +15562,7 @@
         "FID": 340,
         "nama_fitur": "Sayap utara timur laut dinding luar 2",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15657,7 +15657,7 @@
         "FID": 341,
         "nama_fitur": "Sayap utara timur laut gudang",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -15696,7 +15696,7 @@
         "FID": 342,
         "nama_fitur": "Sayap utara timur laut KM",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -15791,7 +15791,7 @@
         "FID": 343,
         "nama_fitur": "Sayap utara timur laut dapur",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -15830,7 +15830,7 @@
         "FID": 344,
         "nama_fitur": "Sayap utara timur laut dinding pembatas dalam 3",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15881,7 +15881,7 @@
         "FID": 345,
         "nama_fitur": "Sayap utara timur laut dinding pembatas dalam 2",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15928,7 +15928,7 @@
         "FID": 346,
         "nama_fitur": "Sayap utara timur laut dinding pembatas dalam 1",
         "lantai": 1,
-        "ketinggian": 6.25,
+        "ketinggian": 50,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15975,7 +15975,7 @@
         "FID": 347,
         "nama_fitur": "Sayap utara timur laut dinding pembatas luar",
         "lantai": 1,
-        "ketinggian": 6.25,
+        "ketinggian": 50,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16022,7 +16022,7 @@
         "FID": 348,
         "nama_fitur": "Sayap utara timur laut dinding luar 1",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -16077,7 +16077,7 @@
         "FID": 349,
         "nama_fitur": "Balairung timur",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -16132,7 +16132,7 @@
         "FID": 350,
         "nama_fitur": "Balairung barat",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -16223,7 +16223,7 @@
         "FID": 351,
         "nama_fitur": "Balairung selatan",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16274,7 +16274,7 @@
         "FID": 352,
         "nama_fitur": "Sayap utara barat laut dinding pembatas luar",
         "lantai": 1,
-        "ketinggian": 6.25,
+        "ketinggian": 50,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16321,7 +16321,7 @@
         "FID": 353,
         "nama_fitur": "Sayap utara barat laut dinding luar 1",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -16420,7 +16420,7 @@
         "FID": 354,
         "nama_fitur": "Sayap utara barat laut dapur",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -16459,7 +16459,7 @@
         "FID": 355,
         "nama_fitur": "Sayap utara barat laut KM",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -16514,7 +16514,7 @@
         "FID": 356,
         "nama_fitur": "Sayap utara barat laut dinding luar 2",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16609,7 +16609,7 @@
         "FID": 357,
         "nama_fitur": "Sayap utara barat laut gudang",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -16648,7 +16648,7 @@
         "FID": 358,
         "nama_fitur": "Sayap utara barat laut dinding pembatas dalam 3",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16695,7 +16695,7 @@
         "FID": 359,
         "nama_fitur": "Sayap utara barat laut dinding pembatas dalam 2",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16742,7 +16742,7 @@
         "FID": 360,
         "nama_fitur": "Sayap utara barat laut dinding pembatas dalam 1",
         "lantai": 1,
-        "ketinggian": 6.25,
+        "ketinggian": 50,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16781,7 +16781,7 @@
         "FID": 361,
         "nama_fitur": "DK",
         "lantai": 1,
-        "ketinggian": 12.5,
+        "ketinggian": 100,
         "tinggi_das": 25,
         "warna": " "
       },
