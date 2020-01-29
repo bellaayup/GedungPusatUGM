@@ -66,7 +66,7 @@
         "FID": 0,
         "nama_fitur": "Sayap utara timur laut dapur",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -117,7 +117,7 @@
         "FID": 1,
         "nama_fitur": "Sayap utara timur laut KM perempuan",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -168,7 +168,7 @@
         "FID": 2,
         "nama_fitur": "Sayap utara timur laut KM laki-laki",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -291,7 +291,7 @@
         "FID": 3,
         "nama_fitur": "Lorong sayap utara timur laut luar",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -370,7 +370,7 @@
         "FID": 4,
         "nama_fitur": "Lorong sayap utara timur laut",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -441,7 +441,7 @@
         "FID": 5,
         "nama_fitur": "Sayap utara timur laut gudang",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -564,7 +564,7 @@
         "FID": 6,
         "nama_fitur": "Lorong sayap utara timur laut dalam",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -1391,7 +1391,7 @@
         "FID": 27,
         "nama_fitur": "DK Ruang Direktur",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1438,7 +1438,7 @@
         "FID": 28,
         "nama_fitur": "DK Ruang Rapat",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1477,7 +1477,7 @@
         "FID": 29,
         "nama_fitur": "DK Ruang Sekretaris",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1516,7 +1516,7 @@
         "FID": 30,
         "nama_fitur": "DK Ruang Kasubdit Kebendaharaan",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1563,7 +1563,7 @@
         "FID": 31,
         "nama_fitur": "DK Ruang Kosong 1",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1602,7 +1602,7 @@
         "FID": 32,
         "nama_fitur": "DK Loket",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1641,7 +1641,7 @@
         "FID": 33,
         "nama_fitur": "DK Ruang Kasubdit Akuntansi",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1684,7 +1684,7 @@
         "FID": 34,
         "nama_fitur": "DK Resepsionis dan Ruang Tamu",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1723,7 +1723,7 @@
         "FID": 35,
         "nama_fitur": "DK Ruang Kosong 2",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -1826,7 +1826,7 @@
         "FID": 36,
         "nama_fitur": "DK Ruang Staf",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "coral"
       },
@@ -2175,7 +2175,7 @@
         "FID": 43,
         "nama_fitur": "Balairung",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "gold"
       },
@@ -3491,7 +3491,7 @@
         "FID": 75,
         "nama_fitur": "Lorong 1 Direktorat Kemahasiswaan",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -3530,7 +3530,7 @@
         "FID": 76,
         "nama_fitur": "DKM Musala",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -3653,7 +3653,7 @@
         "FID": 77,
         "nama_fitur": "Lorong 3 Direktorat Kemahasiswaan",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -3724,7 +3724,7 @@
         "FID": 78,
         "nama_fitur": "Sayap utara barat laut gudang",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -3795,7 +3795,7 @@
         "FID": 79,
         "nama_fitur": "Sayap utara barat laut dapur",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -3846,7 +3846,7 @@
         "FID": 80,
         "nama_fitur": "Sayap utara barat laut KM perempuan",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -3897,7 +3897,7 @@
         "FID": 81,
         "nama_fitur": "Sayap utara barat laut KM laki-laki",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -3964,7 +3964,7 @@
         "FID": 82,
         "nama_fitur": "Lorong 2 Direktorat Kemahasiswaan",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -6633,7 +6633,7 @@
         "FID": 149,
         "nama_fitur": "DKM Ruang Server",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6676,7 +6676,7 @@
         "FID": 150,
         "nama_fitur": "DKM Ruang Kontrol CCTV",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6719,7 +6719,7 @@
         "FID": 151,
         "nama_fitur": "DKM Ruang Mesin Telepon",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6758,7 +6758,7 @@
         "FID": 152,
         "nama_fitur": "DKM Wesel Board",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6805,7 +6805,7 @@
         "FID": 153,
         "nama_fitur": "DKM Ruang Arsip",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6852,7 +6852,7 @@
         "FID": 154,
         "nama_fitur": "DKM Loket",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6891,7 +6891,7 @@
         "FID": 155,
         "nama_fitur": "DKM Ruang Staf",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6930,7 +6930,7 @@
         "FID": 156,
         "nama_fitur": "DKM Ruang rapat",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -6969,7 +6969,7 @@
         "FID": 157,
         "nama_fitur": "DKM Ruang Direktur",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -7008,7 +7008,7 @@
         "FID": 158,
         "nama_fitur": "DKM Resepsionis dan Ruang Tamu",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -7047,7 +7047,7 @@
         "FID": 159,
         "nama_fitur": "DKM Ruang Kasubdit Kesejahteraan Mahasiswa",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -7086,7 +7086,7 @@
         "FID": 160,
         "nama_fitur": "DKM Ruang Sekretaris Direktur",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -7125,7 +7125,7 @@
         "FID": 161,
         "nama_fitur": "DKM Ruang Kasubdit Organisasi dan Fasilitas Manusia",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -7164,7 +7164,7 @@
         "FID": 162,
         "nama_fitur": "DKM Ruang Sekretaris Direktorat",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "fuchsia"
       },
@@ -7259,7 +7259,7 @@
         "FID": 163,
         "nama_fitur": "Lorong sayap barat",
         "lantai": 1,
-        "ketinggian": 0,
+        "ketinggian": 0.0,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -7350,7 +7350,7 @@
         "FID": 164,
         "nama_fitur": "Lorong sayap timur",
         "lantai": 1,
-        "ketinggian": 0,
+        "ketinggian": 0.0,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -7663,7 +7663,7 @@
         "FID": 171,
         "nama_fitur": "Sayap selatan barat daya gudang",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -7738,7 +7738,7 @@
         "FID": 172,
         "nama_fitur": "Sayap selatan barat daya dapur",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -8693,7 +8693,7 @@
         "FID": 193,
         "nama_fitur": "Lorong sayap selatan luar",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -8760,7 +8760,7 @@
         "FID": 194,
         "nama_fitur": "Lorong sayap selatan barat daya",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -8811,7 +8811,7 @@
         "FID": 195,
         "nama_fitur": "Sayap selatan barat daya KM laki-laki",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -8862,7 +8862,7 @@
         "FID": 196,
         "nama_fitur": "Sayap selatan barat daya KM perempuan",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -8901,7 +8901,7 @@
         "FID": 197,
         "nama_fitur": "KHO Ruang Kosong",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -8952,7 +8952,7 @@
         "FID": 198,
         "nama_fitur": "HMP Ruang Kosong",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -8991,7 +8991,7 @@
         "FID": 199,
         "nama_fitur": "KHO Ruang Rapat KHO dan HMP",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9038,7 +9038,7 @@
         "FID": 200,
         "nama_fitur": "HMP Resepsionis dan Ruang Tamu",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -9077,7 +9077,7 @@
         "FID": 201,
         "nama_fitur": "HMP Ruang Kasubbag Layanan Informasi",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -9132,7 +9132,7 @@
         "FID": 202,
         "nama_fitur": "KHO Ruang Staf",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9171,7 +9171,7 @@
         "FID": 203,
         "nama_fitur": "KHO Ruang Kabag Per UU, Organisasi, dan Tata Laksana",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9210,7 +9210,7 @@
         "FID": 204,
         "nama_fitur": "KHO Ruang Kabag Hukum",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9261,7 +9261,7 @@
         "FID": 205,
         "nama_fitur": "KHO Resepsionis dan Ruang Tamu",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9304,7 +9304,7 @@
         "FID": 206,
         "nama_fitur": "KHO Ruang Kepala",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9343,7 +9343,7 @@
         "FID": 207,
         "nama_fitur": "KHO Ruang Sidang",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9390,7 +9390,7 @@
         "FID": 208,
         "nama_fitur": "KHO Gudang",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "crimson"
       },
@@ -9429,7 +9429,7 @@
         "FID": 209,
         "nama_fitur": "HMP Fortakgama",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -9468,7 +9468,7 @@
         "FID": 210,
         "nama_fitur": "HMP Ruang Tunggu Tamu",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -9507,7 +9507,7 @@
         "FID": 211,
         "nama_fitur": "HMP Ruang Kasubbag Pemberitaan",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -9546,7 +9546,7 @@
         "FID": 212,
         "nama_fitur": "HMP Ruang Kepala Bagian",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -9601,7 +9601,7 @@
         "FID": 213,
         "nama_fitur": "HMP Ruang Staf",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -11130,7 +11130,7 @@
         "FID": 248,
         "nama_fitur": "HMP Ruang Arsip",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "blue"
       },
@@ -11169,7 +11169,7 @@
         "FID": 249,
         "nama_fitur": "KTURT Ruang Kabag TU",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11216,7 +11216,7 @@
         "FID": 250,
         "nama_fitur": "KTURT Ruang Arsip",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11263,7 +11263,7 @@
         "FID": 251,
         "nama_fitur": "KTURT Post Center",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11302,7 +11302,7 @@
         "FID": 252,
         "nama_fitur": "KTURT Ruang Staf Rumah Tangga",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11341,7 +11341,7 @@
         "FID": 253,
         "nama_fitur": "KTURT Ruang Kabag Rumah Tangga",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11388,7 +11388,7 @@
         "FID": 254,
         "nama_fitur": "KTURT Ruang Tata Suara",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11435,7 +11435,7 @@
         "FID": 255,
         "nama_fitur": "KTURT Ruang Kosong",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11482,7 +11482,7 @@
         "FID": 256,
         "nama_fitur": "KTURT Ruang Rapat",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11521,7 +11521,7 @@
         "FID": 257,
         "nama_fitur": "KTURT Ruang Kepala",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11564,7 +11564,7 @@
         "FID": 258,
         "nama_fitur": "KTURT Resepsionis dan Ruang Tamu",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11603,7 +11603,7 @@
         "FID": 259,
         "nama_fitur": "KTURT Ruang Staf Tata Usaha",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "beige"
       },
@@ -11674,7 +11674,7 @@
         "FID": 260,
         "nama_fitur": "Sayap selatan tenggara dapur",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -12451,7 +12451,7 @@
         "FID": 275,
         "nama_fitur": "Lorong sayap selatan dalam",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -12522,7 +12522,7 @@
         "FID": 276,
         "nama_fitur": "Sayap selatan tenggara gudang",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -12573,7 +12573,7 @@
         "FID": 277,
         "nama_fitur": "Sayap selatan tenggara KM perempuan",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -12624,7 +12624,7 @@
         "FID": 278,
         "nama_fitur": "Sayap selatan tenggara KM laki-laki",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -12695,7 +12695,7 @@
         "FID": 279,
         "nama_fitur": "Lorong sayap selatan tenggara",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -13784,7 +13784,7 @@
         "FID": 306,
         "nama_fitur": "DSDM Ruang Sekretaris",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -13831,7 +13831,7 @@
         "FID": 307,
         "nama_fitur": "DSDM Ruang Subdit Pengadaan dan Remunerasi",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -13874,7 +13874,7 @@
         "FID": 308,
         "nama_fitur": "DSDM Ruang Sidang",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -13929,7 +13929,7 @@
         "FID": 309,
         "nama_fitur": "DSDM Ruang Direktur",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -13968,7 +13968,7 @@
         "FID": 310,
         "nama_fitur": "DSDM Resepsionis dan Ruang Tamu",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14007,7 +14007,7 @@
         "FID": 311,
         "nama_fitur": "DSDM Gudang",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14062,7 +14062,7 @@
         "FID": 312,
         "nama_fitur": "DSDM Ruang Subdit Kepegawaian",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14101,7 +14101,7 @@
         "FID": 313,
         "nama_fitur": "DSDM Ruang Subdit SDM",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14156,7 +14156,7 @@
         "FID": 314,
         "nama_fitur": "DSDM Ruang TI",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14211,7 +14211,7 @@
         "FID": 315,
         "nama_fitur": "DSDM Ruang Arsip",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14250,7 +14250,7 @@
         "FID": 316,
         "nama_fitur": "DSDM Ruang Staf",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 25,
         "warna": "aqua"
       },
@@ -14301,7 +14301,7 @@
         "FID": 317,
         "nama_fitur": "Pos Satpam",
         "lantai": 1,
-        "ketinggian": 25,
+        "ketinggian": 3.125,
         "tinggi_das": 0,
         "warna": "khaki"
       },
@@ -14513,7 +14513,7 @@
         "FID": 321,
         "nama_fitur": "Sayap selatan barat daya dapur",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -14608,7 +14608,7 @@
         "FID": 322,
         "nama_fitur": "Sayap selatan barat daya gudang",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -14647,7 +14647,7 @@
         "FID": 323,
         "nama_fitur": "Sayap selatan barat daya KM",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -14698,7 +14698,7 @@
         "FID": 324,
         "nama_fitur": "Sayap selatan barat daya dinding luar",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -14737,7 +14737,7 @@
         "FID": 325,
         "nama_fitur": "Sayap selatan tengah dinding pembatas",
         "lantai": 1,
-        "ketinggian": 50,
+        "ketinggian": 6.25,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -14836,7 +14836,7 @@
         "FID": 326,
         "nama_fitur": "Sayap selatan tenggara dapur",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -14891,7 +14891,7 @@
         "FID": 327,
         "nama_fitur": "Sayap selatan tenggara dinding luar",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -14930,7 +14930,7 @@
         "FID": 328,
         "nama_fitur": "Sayap selatan tenggara KM",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -14981,7 +14981,7 @@
         "FID": 329,
         "nama_fitur": "Sayap selatan tenggara dinding pembatas",
         "lantai": 1,
-        "ketinggian": 50,
+        "ketinggian": 6.25,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15028,7 +15028,7 @@
         "FID": 330,
         "nama_fitur": "Sayap selatan barat daya dinding pembatas",
         "lantai": 1,
-        "ketinggian": 50,
+        "ketinggian": 6.25,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15127,7 +15127,7 @@
         "FID": 331,
         "nama_fitur": "Sayap selatan tenggara gudang",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -15166,7 +15166,7 @@
         "FID": 332,
         "nama_fitur": "Sayap selatan tenggara dinding pembatas dalam 4",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15229,7 +15229,7 @@
         "FID": 333,
         "nama_fitur": "Sayap selatan tenggara dinding pembatas dalam 1",
         "lantai": 1,
-        "ketinggian": 50,
+        "ketinggian": 6.25,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15268,7 +15268,7 @@
         "FID": 334,
         "nama_fitur": "Sayap selatan barat daya dinding pembatas dalam 4",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15315,7 +15315,7 @@
         "FID": 335,
         "nama_fitur": "Sayap selatan tenggara dinding pembatas dalam 3",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -15354,7 +15354,7 @@
         "FID": 336,
         "nama_fitur": "Sayap selatan tenggara dinding pembatas dalam 2",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -15417,7 +15417,7 @@
         "FID": 337,
         "nama_fitur": "Sayap selatan barat daya dinding pembatas dalam 1",
         "lantai": 1,
-        "ketinggian": 50,
+        "ketinggian": 6.25,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15456,7 +15456,7 @@
         "FID": 338,
         "nama_fitur": "Sayap selatan barat daya dinding pembatas dalam 2",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -15507,7 +15507,7 @@
         "FID": 339,
         "nama_fitur": "Sayap selatan barat daya dinding pembatas dalam 3",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -15562,7 +15562,7 @@
         "FID": 340,
         "nama_fitur": "Sayap utara timur laut dinding luar 2",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15657,7 +15657,7 @@
         "FID": 341,
         "nama_fitur": "Sayap utara timur laut gudang",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -15696,7 +15696,7 @@
         "FID": 342,
         "nama_fitur": "Sayap utara timur laut KM",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -15791,7 +15791,7 @@
         "FID": 343,
         "nama_fitur": "Sayap utara timur laut dapur",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -15830,7 +15830,7 @@
         "FID": 344,
         "nama_fitur": "Sayap utara timur laut dinding pembatas dalam 3",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15881,7 +15881,7 @@
         "FID": 345,
         "nama_fitur": "Sayap utara timur laut dinding pembatas dalam 2",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15928,7 +15928,7 @@
         "FID": 346,
         "nama_fitur": "Sayap utara timur laut dinding pembatas dalam 1",
         "lantai": 1,
-        "ketinggian": 50,
+        "ketinggian": 6.25,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -15975,7 +15975,7 @@
         "FID": 347,
         "nama_fitur": "Sayap utara timur laut dinding pembatas luar",
         "lantai": 1,
-        "ketinggian": 50,
+        "ketinggian": 6.25,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16022,7 +16022,7 @@
         "FID": 348,
         "nama_fitur": "Sayap utara timur laut dinding luar 1",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -16077,7 +16077,7 @@
         "FID": 349,
         "nama_fitur": "Balairung timur",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -16132,7 +16132,7 @@
         "FID": 350,
         "nama_fitur": "Balairung barat",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -16223,7 +16223,7 @@
         "FID": 351,
         "nama_fitur": "Balairung selatan",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16274,7 +16274,7 @@
         "FID": 352,
         "nama_fitur": "Sayap utara barat laut dinding pembatas luar",
         "lantai": 1,
-        "ketinggian": 50,
+        "ketinggian": 6.25,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16321,7 +16321,7 @@
         "FID": 353,
         "nama_fitur": "Sayap utara barat laut dinding luar 1",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "gray"
       },
@@ -16420,7 +16420,7 @@
         "FID": 354,
         "nama_fitur": "Sayap utara barat laut dapur",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -16459,7 +16459,7 @@
         "FID": 355,
         "nama_fitur": "Sayap utara barat laut KM",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -16514,7 +16514,7 @@
         "FID": 356,
         "nama_fitur": "Sayap utara barat laut dinding luar 2",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16609,7 +16609,7 @@
         "FID": 357,
         "nama_fitur": "Sayap utara barat laut gudang",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": "khaki"
       },
@@ -16648,7 +16648,7 @@
         "FID": 358,
         "nama_fitur": "Sayap utara barat laut dinding pembatas dalam 3",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16695,7 +16695,7 @@
         "FID": 359,
         "nama_fitur": "Sayap utara barat laut dinding pembatas dalam 2",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16742,7 +16742,7 @@
         "FID": 360,
         "nama_fitur": "Sayap utara barat laut dinding pembatas dalam 1",
         "lantai": 1,
-        "ketinggian": 50,
+        "ketinggian": 6.25,
         "tinggi_das": 0,
         "warna": "gray"
       },
@@ -16781,7 +16781,7 @@
         "FID": 361,
         "nama_fitur": "DK",
         "lantai": 1,
-        "ketinggian": 100,
+        "ketinggian": 12.5,
         "tinggi_das": 25,
         "warna": " "
       },
